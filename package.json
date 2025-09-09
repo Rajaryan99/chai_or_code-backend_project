@@ -2,10 +2,13 @@
   "name": "backend_project",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript, backend, node.js, Express, mongoose, ejs,"
+  ],
   "author": "",
   "license": "ISC",
   "description": ""
